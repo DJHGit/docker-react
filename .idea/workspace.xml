@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e9f2c99-ed49-4ac2-8acf-9136df18a738" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/this-dummy-was-created-on-container-itself.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -244,12 +240,12 @@
       <workItem from="1557165072481" duration="1679000" />
       <workItem from="1557171004697" duration="10904000" />
       <workItem from="1557182801634" duration="2717000" />
-      <workItem from="1557254433305" duration="7400000" />
+      <workItem from="1557254433305" duration="7794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22700000" />
+    <option name="totallyTimeSpent" value="23094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-4" width="1280" height="1028" extended-state="6" />
